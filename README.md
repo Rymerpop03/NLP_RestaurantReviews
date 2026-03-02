@@ -10,7 +10,7 @@ This project utilizes natural language processing to identify restuarant custome
 - Libraries: pandas, numpy, scikit-learn, matplotlib, torch, transformers
 
 **Dataset**
-TSV formatted file containing two attributes and 1000 records
+- TSV formatted file containing two attributes and 1000 records
 
 
 # Repository Structure
